@@ -18,3 +18,17 @@ Created by Dean McNamee and Marcin Ignac, [9.5](http://www.ninepointfive.org/) i
   * raster-tilelayers (PNG)
 * [U.S. Geological Survey](https://earthquake.usgs.gov/earthquakes/)
   * vector
+
+## About Basemap, Thematic Layer, and Interactive Features
+
+9.5 utilizes a satellite basemap of earth with tile layers from NASA. The thematic layer offered is a transistion from light to dark via the Day/Night featue. Interactive features include:
+* Year/Month Slider
+* Magnitude Slider
+* Day/Night Slider
+* Option to set lines, particles, or rings
+* Tour Feautures
+* Supersampling Toggle
+* Selectable Earthquake with Zoom and Pulsate Feature
+* Links to Data Sources and Creators
+
+##
