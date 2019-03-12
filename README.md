@@ -31,4 +31,11 @@ Created by Dean McNamee and Marcin Ignac, [9.5](http://www.ninepointfive.org/) i
 * Selectable Earthquake with Zoom and Pulsate Feature
 * Links to Data Sources and Creators
 
+## Web Map Elements
+
+* Interactive Legend
+* Creator Label
+* Data Source Label
+
 ##
+
