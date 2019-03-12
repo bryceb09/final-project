@@ -15,7 +15,6 @@ Created by Dean McNamee and Marcin Ignac, [9.5](http://www.ninepointfive.org/) i
 
 * [NASA](https://earthobservatory.nasa.gov/features/BlueMarble)
   * raster-tilelayers (JPG)
-  * raster-tilelayers (PNG)
 * [U.S. Geological Survey](https://earthquake.usgs.gov/earthquakes/)
   * vector
 
